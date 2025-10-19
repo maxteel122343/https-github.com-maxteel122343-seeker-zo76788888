@@ -1,5 +1,5 @@
 {
-  "name": "copy-of-imagen",
+  "name": "copy-of-ai-interior-designer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@google/genai": "^1.4.0",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "framer-motion": "^11.3.12"
+    "@google/genai": "^1.25.0",
+    "@supabase/supabase-js": "^2.75.1",
+    "lucide-react": "^0.546.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.4"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",

@@ -1,5 +1,7 @@
 {
-  "name": "Copy of Imagen",
-  "description": "Sample from Imagen models to generate images",
-  "requestFramePermissions": []
+  "name": "Copy of AI Interior Designer",
+  "description": "An application that uses AI to redesign your room in various styles instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
 }
